@@ -25,7 +25,9 @@
 
 
 If any problem is found with any of our work, you can contact me on Discord (Robertoz#0911) as I take responsability for the content of this translation.
+
 Please provide screenshots so we can easily retrieve the problem into the language file.
+
 If you are interested in traducing, please contact me. The more we are, the better.
 
 
@@ -57,5 +59,7 @@ Etat actuel de la traduction française :
 
 
 Si vous trouvez une quelleconque erreur dans notre traduction, vous pouvez me contacter sur Discord (Robertoz#0911), étant le responsable du contenu de cette traduction.
+
 Nous demandons si possible des captures d'écran accompagnant ces erreurs pour nous faciliter le travail de correction.
+
 Si vous êtes intéressé pour traduire, contactez-moi. Plus on aura de bras, plus vite cela se terminera.
