@@ -1,4 +1,5 @@
-Current French translation state :
+**Current French translation state :**
+
 
 **General translations:**
 
