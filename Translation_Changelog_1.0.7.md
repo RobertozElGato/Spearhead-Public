@@ -20,7 +20,7 @@
 **Underway translations:**
 
 	- USF Non-doctrinal units, armaments, building, upgrades and skills
-	- USF 4th Division units, armaments, building, upgrades and skills
+	- USF 4th Division (Tank Destroyer) units, armaments, building, upgrades and skills
 	- Direct translation into the language file that may lead to partial translations into factions
 
 
