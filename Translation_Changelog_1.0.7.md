@@ -16,11 +16,12 @@
 
 	- OKW Non-doctrinal units, armaments, building, upgrades and skills
 	- OKW Panzerjäger units, armaments, buildings, upgrades and skills
+	- USF 4th Division (Tank Destroyer) infantry units
 
 **Underway translations:**
 
 	- USF Non-doctrinal units, armaments, building, upgrades and skills
-	- USF 4th Division (Tank Destroyer) units, armaments, building, upgrades and skills
+	- USF 4th Division (Tank Destroyer) tanks, armaments, building, upgrades and skills
 	- Direct translation into the language file that may lead to partial translations into factions
 
 
